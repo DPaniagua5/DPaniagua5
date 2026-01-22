@@ -31,7 +31,7 @@ Me interesa especialmente el desarrollo backend y frontend, el manejo de bases d
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DPaniagua5&theme=shadow_green&cache_seconds=1800&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DPaniagua5&theme=shadow_green)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DPaniagua5&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DPaniagua5&theme=shadow_green&layout=compact&cache_seconds=1800)
 
 
